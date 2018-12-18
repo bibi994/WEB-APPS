@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: #DD8181;
+    color: white;
+    padding: 1%;
+}
+
+main{
+    width: 960px;
+    margin: 0 auto
+}
+.article{
+    margin-top: 2%;
+    padding: 2%;
+    background-color:#565680;
+    color: white;
+
+}

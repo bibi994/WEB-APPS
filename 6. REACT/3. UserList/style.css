@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+header{
+    text-align: center;
+    background-color: #DD8181;
+    color: white;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+main{
+    width: 960px;
+    margin: 0 auto
+}
+.article{
+    padding: 2%;
+    border: 1px solid lightgrey;
+    color: black;
+    margin: -1px;
+
+}
+footer{
+    background-color: #DD8181;
+    color: white;
+    padding: 2% 1% 0;
+    margin-top: 2%;
+    height: 40px;
+
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}

@@ -1,0 +1,21 @@
+header{
+    a {
+        color: white;
+    }
+    a:hover{
+        text-decoration: none;
+    }
+}
+.list{
+    position: relative;
+    .list-group {
+        display: none;
+        position:absolute;
+        right: 0;
+        width: 20%;
+        float: right;
+        z-index: 10000;
+        top:-5px;
+        cursor: pointer;
+    }
+}

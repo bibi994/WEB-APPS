@@ -1,0 +1,28 @@
+@import 'header';
+@import 'footer';
+
+main {
+    h1 {
+    text-align: center;
+    }
+    .card-movie{
+        width: 30%;
+        display: inline-block;
+        margin: 1%;
+    }
+}
+img{
+    width: 100%;
+}
+
+
+.card-movie:hover {
+    -webkit-box-shadow: 1px 1px 10px 1px #210801;
+    box-shadow: 1px 1px 10px 1px #210801;
+}
+
+
+
+
+
+
